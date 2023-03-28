@@ -3,14 +3,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,node,visualstudiocode,react,firebase,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,node,visualstudiocode,react,firebase,yarn
 
-### Firebase ###
-.idea
-**/node_modules/*
-**/.firebaserc
 
-### Firebase Patch ###
-.runtimeconfig.json
-.firebase/
 
 ### Node ###
 # Logs
